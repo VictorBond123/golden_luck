@@ -1,0 +1,61 @@
+body {
+    margin: 60px auto 0;
+    padding: 20px;
+    background-color: rgba(212, 212, 212, 0.87);
+    position: relative;
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 22px;
+    color: rgb(31, 31, 31);
+}
+
+h1, h2 {
+    color: rgb(37, 37, 37);
+    margin-top: 0;
+    margin-bottom: 20px;
+    background: rgb(201, 201, 201);
+    padding: 10px 0;
+    border-radius: 10px;
+    text-align: center;
+}
+strong {
+  text-shadow: 0px 0px 5px rgb(255 209 106 / 52%);
+}
+
+.border-button {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 20px;
+  text-transform: uppercase;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  border: 2px solid rgba(30, 163, 3, 0.897); /* Цвет рамки */
+  color: black; /* Цвет текста */
+  background-color: #c09d00; /* Желтый цвет кнопки */
+  border-radius: 5px; /* Закругление углов */
+  transition: all .3s ease-in-out;
+  font-weight: 700;
+  animation: pulse 2s infinite
+}
+
+/* Стиль при наведении на кнопку */
+.border-button:hover {
+  background-color: rgba(30, 163, 3, 0.897); /* Зеленый цвет при наведении */
+  border: 2px solid #c09d00; /* Цвет рамки */
+  color: #ffffff; /* Цвет текста при наведении */
+}
+@keyframes pulse {
+  0% {
+    transform: scale(1); /* Начальный размер */
+  }
+  50% {
+    transform: scale(1.1); /* Увеличение размера на полпути */
+  }
+  100% {
+    transform: scale(1); /* Возвращение к начальному размеру */
+  }
+}
