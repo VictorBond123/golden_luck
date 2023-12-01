@@ -1,20 +1,20 @@
 "use strict";
 var precacheConfig = [
-    ["./index.html", "af0accdaa7e8c51d1dd21636bc8e5f59"],
-    ["./static/css/main.2c9a1367.css", "79c0f489580f45f29f3a7352739fbfbb"],
-    ["./static/js/main.4f786886.js", "ca46ec8b21462e0b52bc112996ebafe6"],
+    ["/index.html", "af0accdaa7e8c51d1dd21636bc8e5f59"],
+    ["/static/css/main.2c9a1367.css", "79c0f489580f45f29f3a7352739fbfbb"],
+    ["/static/js/main.4f786886.js", "ca46ec8b21462e0b52bc112996ebafe6"],
     [
-      "./static/media/PTSans-Bold.e9c53d8c.woff",
+      "/static/media/PTSans-Bold.e9c53d8c.woff",
       "e9c53d8c945838538b31faf0edd70745",
     ],
     [
-      "./static/media/PTSans-Regular.3f40ccfd.woff",
+      "/static/media/PTSans-Regular.3f40ccfd.woff",
       "3f40ccfd35207c3629cba01c8db1082a",
     ],
-    ["./static/media/click.b2da77ac.mp3", "b2da77acaaf315446c7ee96b7026736b"],
-    ["./static/media/done.78dccfdb.mp3", "78dccfdb37e2486661a3126b424a40c5"],
-    ["./static/media/error.16d31e4f.mp3", "16d31e4f55b83d2beae1abe1aa70cbab"],
-    ["./static/media/win.604373c9.mp3", "604373c9fe8af4fa0ca994d7dd00e159"],
+    ["/static/media/click.b2da77ac.mp3", "b2da77acaaf315446c7ee96b7026736b"],
+    ["/static/media/done.78dccfdb.mp3", "78dccfdb37e2486661a3126b424a40c5"],
+    ["/static/media/error.16d31e4f.mp3", "16d31e4f55b83d2beae1abe1aa70cbab"],
+    ["/static/media/win.604373c9.mp3", "604373c9fe8af4fa0ca994d7dd00e159"],
   ],
   cacheName =
     "sw-precache-v3-sw-precache-webpack-plugin-" +
