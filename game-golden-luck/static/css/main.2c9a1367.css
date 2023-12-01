@@ -173,7 +173,7 @@ h1:before {
 }
 
 .card-body .back {
-    background-color: var(--secondary-color)
+    background-color: rgb(127, 41, 138);
 }
 
 .card-body .back,
