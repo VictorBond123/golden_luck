@@ -7,27 +7,27 @@
   "background_color": "#ffffff",
   "icons": [
     {
-      "src": "/favicon/logo.png",
+      "src": "/game-golden-luck/favicon/logo.png",
       "sizes": "16x16",
       "type": "image/png"
     },
     {
-      "src": "/favicon/logo32.png",
+      "src": "/game-golden-luck/favicon/logo32.png",
       "sizes": "32x32",
       "type": "image/png"
     },
     {
-      "src": "/favicon/logo64.png",
+      "src": "/game-golden-luck/favicon/logo64.png",
       "sizes": "64x64",
       "type": "image/png"
     },
     {
-      "src": "/favicon/logo128.png",
+      "src": "/game-golden-luck/favicon/logo128.png",
       "type": "image/png",
       "sizes": "128x128"
     },
     {
-      "src": "/favicon/logo512.png",
+      "src": "/game-golden-luck/favicon/logo512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
