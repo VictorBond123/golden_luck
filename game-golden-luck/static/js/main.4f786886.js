@@ -219,7 +219,7 @@
       });
   },
   function (e, t, n) {
-    e.exports = n.p + "../media/error.16d31e4f.mp3";
+    e.exports = n.p + "./static/media/error.16d31e4f.mp3";
   },
   function (e, t) {},
   function (e, t, n) {
@@ -10889,10 +10889,10 @@
     t.a = r;
   },
   function (e, t, n) {
-    e.exports = n.p + "../media/win.604373c9.mp3";
+    e.exports = n.p + "./static/media/win.604373c9.mp3";
   },
   function (e, t, n) {
-    e.exports = n.p + "../media/done.78dccfdb.mp3";
+    e.exports = n.p + "./static/media/done.78dccfdb.mp3";
   },
   function (e, t) {},
   function (e, t, n) {
